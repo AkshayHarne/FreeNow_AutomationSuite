@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8663" started-at="2020-02-13T11:32:50 IST" finished-at="2020-02-13T11:32:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8663" started-at="2020-02-13T11:32:50 IST" finished-at="2020-02-13T11:32:59 IST">
+      <class name="TestScript">
+        <test-method status="PASS" signature="fixtureLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="fixtureLevelSetup" is-config="true" duration-ms="115" started-at="2020-02-13T11:32:50 IST" finished-at="2020-02-13T11:32:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fixtureLevelSetup -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="1" started-at="2020-02-13T11:32:50 IST" finished-at="2020-02-13T11:32:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:TestScript@5d76b067]" name="TestCase1" duration-ms="3191" started-at="2020-02-13T11:32:50 IST" finished-at="2020-02-13T11:32:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="1" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase1 status=SUCCESS method=TestScript.TestCase1()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="1" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestCase10()[pri:0, instance:TestScript@5d76b067]" name="TestCase10" duration-ms="90" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase10 -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase10 status=SUCCESS method=TestScript.TestCase10()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:TestScript@5d76b067]" name="TestCase2" duration-ms="54" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase2 status=SUCCESS method=TestScript.TestCase2()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestCase3()[pri:0, instance:TestScript@5d76b067]" name="TestCase3" duration-ms="1056" started-at="2020-02-13T11:32:53 IST" finished-at="2020-02-13T11:32:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method status="PASS" signature="TestCase4()[pri:0, instance:TestScript@5d76b067]" name="TestCase4" duration-ms="56" started-at="2020-02-13T11:32:54 IST" finished-at="2020-02-13T11:32:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:54 IST" finished-at="2020-02-13T11:32:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase3 status=SUCCESS method=TestScript.TestCase3()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:54 IST" finished-at="2020-02-13T11:32:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="1" started-at="2020-02-13T11:32:54 IST" finished-at="2020-02-13T11:32:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase4 status=SUCCESS method=TestScript.TestCase4()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:54 IST" finished-at="2020-02-13T11:32:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestCase5()[pri:0, instance:TestScript@5d76b067]" name="TestCase5" duration-ms="83" started-at="2020-02-13T11:32:54 IST" finished-at="2020-02-13T11:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase5 status=SUCCESS method=TestScript.TestCase5()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestCase6()[pri:0, instance:TestScript@5d76b067]" name="TestCase6" duration-ms="67" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase6 -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase6 status=SUCCESS method=TestScript.TestCase6()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestCase7()[pri:0, instance:TestScript@5d76b067]" name="TestCase7" duration-ms="33" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase7 -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="1" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase7 status=SUCCESS method=TestScript.TestCase7()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestCase8()[pri:0, instance:TestScript@5d76b067]" name="TestCase8" duration-ms="3590" started-at="2020-02-13T11:32:55 IST" finished-at="2020-02-13T11:32:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase8 -->
+        <test-method status="PASS" signature="TestLevelSetup()[pri:0, instance:TestScript@5d76b067]" name="TestLevelSetup" is-config="true" duration-ms="1" started-at="2020-02-13T11:32:58 IST" finished-at="2020-02-13T11:32:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelSetup -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:58 IST" finished-at="2020-02-13T11:32:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase8 status=SUCCESS method=TestScript.TestCase8()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="TestCase9()[pri:0, instance:TestScript@5d76b067]" name="TestCase9" duration-ms="73" started-at="2020-02-13T11:32:58 IST" finished-at="2020-02-13T11:32:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase9 -->
+        <test-method status="PASS" signature="TestLevelTearDown(org.testng.ITestResult)[pri:0, instance:TestScript@5d76b067]" name="TestLevelTearDown" is-config="true" duration-ms="0" started-at="2020-02-13T11:32:58 IST" finished-at="2020-02-13T11:32:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestCase9 status=SUCCESS method=TestScript.TestCase9()[pri:0, instance:TestScript@5d76b067] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLevelTearDown -->
+        <test-method status="PASS" signature="FixtureLevelTearDown()[pri:0, instance:TestScript@5d76b067]" name="FixtureLevelTearDown" is-config="true" duration-ms="204" started-at="2020-02-13T11:32:58 IST" finished-at="2020-02-13T11:32:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FixtureLevelTearDown -->
+      </class> <!-- TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
